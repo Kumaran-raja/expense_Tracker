@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">expense Tracker</string>
+
+    <string name="note">Note: Password Reset Link Send To Your Email Kindly Check</string>
+</resources>
